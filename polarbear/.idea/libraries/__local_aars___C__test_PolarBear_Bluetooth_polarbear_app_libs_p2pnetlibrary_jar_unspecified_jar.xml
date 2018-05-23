@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="__local_aars__:C.\test\PolarBear_Bluetooth\polarbear\app\libs\p2pnetlibrary.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/p2pnetlibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
